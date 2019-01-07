@@ -1,0 +1,7 @@
+GeoArt to do before publication
+-------------------------------
+- create 101 cache pages with virtual coordinates
+- define 101 physical places with coordinates
+- create 90 puzzles  mysteries
+- create 10 bonus mysteries
+- create 1 super bonus
