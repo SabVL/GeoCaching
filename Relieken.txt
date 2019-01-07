@@ -5,3 +5,9 @@ GeoArt to do before publication
 - create 90 puzzles  mysteries
 - create 10 bonus mysteries
 - create 1 super bonus
+- order woodies
+
+GeoArt after party
+------------------
+- create event 
+- define props
